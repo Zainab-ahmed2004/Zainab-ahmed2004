@@ -1,8 +1,10 @@
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=ZainabAhmed&show_icons=true&hide_border=false&line_height=20&title_color=4CAF50&icon_color=2196F3&show_owner=true"/>
 </p>
+-->
 
 <p>
   <img src="https://img.shields.io/badge/Code-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
